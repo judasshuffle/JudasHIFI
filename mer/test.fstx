@@ -1,0 +1,16 @@
+# faceshift target mapping file
+name=Mery_v11
+filename=Mery_v11/Mery_v11.fbx
+texdir=Mery_v11
+scale=1
+rx=0
+ry=0
+rz=0
+tx=0
+ty=0
+tz=0
+joint = jointEyeLeft = LeftEye = 1
+joint = jointEyeRight = RightEye = 1
+joint = jointNeck = mixamorig:Neck = 1
+bs = JawOpen = Untitled.007.teeth_B_opn = 0.94
+bs = JawOpen = Untitled.011.jawOpen1 = 1
